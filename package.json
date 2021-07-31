@@ -1,13 +1,13 @@
 {
-  "name": "@is-pawa/awesome",
+  "name": "is-pawa-awesome",
   "private": true,
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "type": "module",
   "dependencies": {
-    "@is-pawa/package-a": "^1.0.0",
-    "@is-pawa/package-b": "^1.0.0"
+    "is-pawa-package-a": "^1.0.0",
+    "is-pawa-package-b": "^1.0.0"
   },
   "scripts": {
     "start": "node index.js"
